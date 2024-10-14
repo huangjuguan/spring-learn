@@ -10,7 +10,7 @@ import java.util.Set;
 
 /**
  * 基于路径扫描注册bean信息
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-18
  */
 public class ClassPathBeanDefinitionScanner extends ClassPathScanningCandidateComponentProvider {

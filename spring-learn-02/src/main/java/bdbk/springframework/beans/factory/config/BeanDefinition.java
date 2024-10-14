@@ -4,7 +4,7 @@ import bdbk.springframework.beans.PropertyValues;
 
 /**
  * 保存 bean 的相关信息
- * @author little8
+ * @author huangjuguan
  * @since 2022-03-20
  */
 

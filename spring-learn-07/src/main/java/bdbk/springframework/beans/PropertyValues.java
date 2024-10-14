@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * bean属性类群
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-05
  */
 public class PropertyValues {

@@ -7,7 +7,7 @@ import bdbk.springframework.beans.factory.config.BeanDefinition;
 
 /**
  * bean工厂的抽象类，提供获取bean，并根据模板模式开放获取bean对象定义、创建bean的功能
- * @author little8
+ * @author huangjuguan
  * @since 2022-03-21
  */
 public abstract class AbstractBeanFactory extends DefaultSingletonBeanRegistry implements BeanFactory {

@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.io.InputStream;
 /**
  * 资源流的实现类
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-06
  */
 public class ClassPathResource implements Resource {

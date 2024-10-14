@@ -7,7 +7,7 @@ import java.beans.PropertyDescriptor;
 
 /**
  * bean实例化过程中需要处理的事情，包括实例化bean的前后过程以及bean的属性设置
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-22
  */
 public abstract class InstantiationAwareBeanPostProcessorAdapter implements InstantiationAwareBeanPostProcessor {

@@ -5,7 +5,7 @@ import bdbk.springframework.beans.factory.BeanFactory;
 
 /**
  * 在BeanFactory基础上实现了对存在实例的管理
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-09
  */
 public interface AutowireCapableBeanFactory extends BeanFactory {

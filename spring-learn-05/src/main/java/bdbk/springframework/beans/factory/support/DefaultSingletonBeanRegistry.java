@@ -11,7 +11,7 @@ import java.util.Set;
 
 /**
  * 默认单例实现
- * @author little8
+ * @author huangjuguan
  * @since 2022-03-25
  */
 public class DefaultSingletonBeanRegistry implements SingletonBeanRegistry {

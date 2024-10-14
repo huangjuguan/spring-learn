@@ -6,7 +6,7 @@ import bdbk.springframework.beans.factory.support.DefaultListableBeanFactory;
 
 /**
  * 刷新应用上下文抽象类
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-13
  */
 public abstract class AbstractRefreshableApplicationContext extends AbstractApplicationContext {

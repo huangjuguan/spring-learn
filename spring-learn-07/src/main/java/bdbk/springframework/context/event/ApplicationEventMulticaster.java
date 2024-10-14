@@ -5,7 +5,7 @@ import bdbk.springframework.context.ApplicationListener;
 
 /**
  * 事件广播器接口，注册监听器和发布事件的广播器，提供添加、移除和发布事件方法。
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-14
  */
 public interface ApplicationEventMulticaster {

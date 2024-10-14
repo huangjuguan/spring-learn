@@ -4,7 +4,7 @@ import java.util.EventListener;
 
 /**
  * 监听器接口
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-14
  */
 public interface ApplicationListener<E extends ApplicationEvent> extends EventListener {

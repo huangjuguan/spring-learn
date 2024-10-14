@@ -4,7 +4,7 @@ import bdbk.springframework.beans.exception.BeansException;
 
 /**
  * bean工厂接口
- * @author little8
+ * @author huangjuguan
  * @since 2022-03-20
  */
 public interface BeanFactory {

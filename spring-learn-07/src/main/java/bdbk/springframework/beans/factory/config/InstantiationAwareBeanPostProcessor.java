@@ -7,7 +7,7 @@ import java.beans.PropertyDescriptor;
 
 /**
  * bean实例化前后的扩展类
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-12
  */
 public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {

@@ -2,7 +2,7 @@ package bdbk.springframework.beans.factory;
 
 /**
  * bean 处理了属性填充后的扩展接口
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-12
  */
 public interface InitializingBean {

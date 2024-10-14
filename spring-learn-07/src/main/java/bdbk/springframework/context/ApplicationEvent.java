@@ -4,7 +4,7 @@ import java.util.EventObject;
 
 /**
  * 事件抽象类
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-14
  */
 public abstract class ApplicationEvent extends EventObject {

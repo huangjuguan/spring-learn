@@ -8,7 +8,7 @@ import java.lang.reflect.Constructor;
 
 /**
  * 实例化策略接口
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-05
  */
 public interface InstantiationStrategy {

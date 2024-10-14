@@ -7,7 +7,7 @@ import java.lang.annotation.Target;
 
 /**
  * 自动装载bean的注解
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-22
  */
 @Retention(RetentionPolicy.RUNTIME)

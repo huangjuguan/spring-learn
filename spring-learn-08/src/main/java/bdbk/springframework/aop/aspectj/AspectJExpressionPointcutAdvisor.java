@@ -6,7 +6,7 @@ import org.aopalliance.aop.Advice;
 
 /**
  * 根据表达式获取切入点的通知器
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-26
  */
 public class AspectJExpressionPointcutAdvisor implements PointcutAdvisor {

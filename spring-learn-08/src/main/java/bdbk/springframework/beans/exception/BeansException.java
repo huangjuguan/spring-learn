@@ -2,7 +2,7 @@ package bdbk.springframework.beans.exception;
 
 /**
  *  bean 异常
- * @author little8
+ * @author huangjuguan
  * @since 2022-03-20
  */
 public class BeansException extends RuntimeException {

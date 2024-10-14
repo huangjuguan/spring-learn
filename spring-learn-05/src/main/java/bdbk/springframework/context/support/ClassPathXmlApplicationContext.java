@@ -4,7 +4,7 @@ import bdbk.springframework.beans.exception.BeansException;
 
 /**
  * xml文件应用上下文，这是用户使用的一个门户起点
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-13
  */
 public class ClassPathXmlApplicationContext extends AbstractXmlApplicationContext {

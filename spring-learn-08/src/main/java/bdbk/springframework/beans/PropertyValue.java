@@ -2,7 +2,7 @@ package bdbk.springframework.beans;
 
 /**
  * bean属性类
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-05
  */
 public class PropertyValue {

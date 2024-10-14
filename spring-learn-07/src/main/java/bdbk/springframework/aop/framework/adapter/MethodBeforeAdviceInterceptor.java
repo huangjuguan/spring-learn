@@ -6,7 +6,7 @@ import org.aopalliance.intercept.MethodInvocation;
 
 /**
  * 通知的方法执行前拦截增强
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-26
  */
 public class MethodBeforeAdviceInterceptor implements MethodInterceptor {

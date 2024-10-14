@@ -11,7 +11,7 @@ import java.lang.reflect.Constructor;
 
 /**
  * 具备实例化bean能力的抽象工厂
- * @author little8
+ * @author huangjuguan
  * @since 2022-03-21
  */
 public abstract class AbstractAutowireCapableBeanFactory extends AbstractBeanFactory {

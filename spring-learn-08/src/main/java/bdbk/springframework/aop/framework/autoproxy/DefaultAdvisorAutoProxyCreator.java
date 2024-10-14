@@ -4,7 +4,7 @@ import bdbk.springframework.beans.factory.BeanNameAware;
 
 /**
  * 默认的自动创建通知器的代理对象的实现类
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-26
  */
 public class DefaultAdvisorAutoProxyCreator extends AbstractAdvisorAutoProxyCreator implements BeanNameAware {

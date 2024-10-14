@@ -4,7 +4,7 @@ import bdbk.springframework.aop.AdvisedSupport;
 
 /**
  * 代理工厂
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-26
  */
 public class DefaultAopProxyFactory implements AopProxyFactory {

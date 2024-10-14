@@ -6,7 +6,7 @@ import bdbk.springframework.core.io.ResourceLoader;
 
 /**
  * 资源读取接口
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-06
  */
 public interface BeanDefinitionReader {

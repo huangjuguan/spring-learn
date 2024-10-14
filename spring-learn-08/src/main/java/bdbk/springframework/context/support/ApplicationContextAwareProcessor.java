@@ -7,7 +7,7 @@ import bdbk.springframework.context.ApplicationContextAware;
 
 /**
  * 处理 aware接口的后置处理类
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-22
  */
 public class ApplicationContextAwareProcessor implements BeanPostProcessor {

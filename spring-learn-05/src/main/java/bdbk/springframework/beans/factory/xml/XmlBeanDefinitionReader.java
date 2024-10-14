@@ -20,7 +20,7 @@ import java.util.List;
 
 /**
  * xml文件的bean读取
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-06
  */
 public class XmlBeanDefinitionReader extends AbstractBeanDefinitionReader {

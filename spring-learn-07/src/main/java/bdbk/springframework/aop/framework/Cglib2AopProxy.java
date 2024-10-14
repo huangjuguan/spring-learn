@@ -10,7 +10,7 @@ import java.lang.reflect.Method;
 
 /**
  * cglib 动态代理的实现类
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-26
  */
 public class Cglib2AopProxy implements AopProxy {

@@ -1,8 +1,8 @@
 package bdbk.springframework.test.bean;
 
 /**
- * 
- * @author little8
+ *
+ * @author huangjuguan
  * @since 2022-03-20
  */
 public class UserService {

@@ -20,7 +20,7 @@ import java.util.Map;
 
 /**
  * 抽象应用上下文
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-13
  */
 public abstract class AbstractApplicationContext extends DefaultResourceLoader implements ConfigurableApplicationContext {

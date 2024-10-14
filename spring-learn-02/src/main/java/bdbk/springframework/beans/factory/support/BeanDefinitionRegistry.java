@@ -4,7 +4,7 @@ import bdbk.springframework.beans.factory.config.BeanDefinition;
 
 /**
  * bean定义的注册接口
- * @author little8
+ * @author huangjuguan
  * @since 2022-03-21
  */
 public interface BeanDefinitionRegistry {

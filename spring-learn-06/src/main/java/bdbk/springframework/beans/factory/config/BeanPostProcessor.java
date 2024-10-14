@@ -4,7 +4,7 @@ import bdbk.springframework.beans.exception.BeansException;
 
 /**
  * 对已经实例化的bean进行再次处理和修改，返回新定义的bean
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-09
  */
 public interface BeanPostProcessor {

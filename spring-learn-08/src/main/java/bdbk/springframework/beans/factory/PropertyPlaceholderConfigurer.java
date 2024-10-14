@@ -13,7 +13,7 @@ import java.util.Properties;
 
 /**
  * bean属性配置扩展，比如占位符，未来的properties、yml文件数据属性读取等等
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-21
  */
 public class PropertyPlaceholderConfigurer implements BeanFactoryPostProcessor {

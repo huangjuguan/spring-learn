@@ -6,7 +6,7 @@ import bdbk.springframework.beans.factory.xml.XmlBeanDefinitionReader;
 
 /**
  * xml文件的应用上下文抽象类，处理从xml文件中装载beanDefinition
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-13
  */
 public abstract class AbstractXmlApplicationContext extends AbstractRefreshableApplicationContext {

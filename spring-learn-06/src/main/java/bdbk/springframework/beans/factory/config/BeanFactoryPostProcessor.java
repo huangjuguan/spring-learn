@@ -5,7 +5,7 @@ import bdbk.springframework.beans.factory.support.ConfigurableListableBeanFactor
 
 /**
  * 实例化bean前对bean信息的扩展接口
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-22
  */
 public interface BeanFactoryPostProcessor {

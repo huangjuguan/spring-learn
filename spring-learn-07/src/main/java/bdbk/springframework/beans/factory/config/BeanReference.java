@@ -2,7 +2,7 @@ package bdbk.springframework.beans.factory.config;
 
 /**
  * bean属性类群
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-05
  */
 public class BeanReference {

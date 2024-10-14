@@ -9,7 +9,7 @@ import java.util.Set;
 
 /**
  * 扫描带有@Component的类
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-18
  */
 public class ClassPathScanningCandidateComponentProvider {

@@ -2,7 +2,7 @@ package bdbk.springframework.beans.factory.config;
 
 /**
  * 单例bean注册接口
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-14
  */
 public interface SingletonBeanRegistry {

@@ -2,7 +2,7 @@ package bdbk.springframework.aop;
 
 /**
  * 切入点接口
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-26
  */
 public interface Pointcut {

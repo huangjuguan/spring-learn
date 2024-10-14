@@ -5,7 +5,7 @@ import bdbk.springframework.beans.factory.Aware;
 
 /**
  * 处理aware接口
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-22
  */
 public interface ApplicationContextAware extends Aware {

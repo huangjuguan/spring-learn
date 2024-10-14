@@ -4,7 +4,7 @@ import java.lang.annotation.*;
 
 /**
  * 注入值的注解
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-22
  */
 @Target({ElementType.FIELD, ElementType.METHOD, ElementType.PARAMETER})

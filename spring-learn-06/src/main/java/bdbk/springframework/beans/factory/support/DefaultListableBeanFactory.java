@@ -11,7 +11,7 @@ import bdbk.springframework.util.StringValueResolver;
 
 /**
  * 携带bean定义集合的实现工厂，可根据此维护的集合来操作已经注册过的bean定义对象
- * @author little8
+ * @author huangjuguan
  * @since 2022-03-21
  */
 public class DefaultListableBeanFactory extends AbstractAutowireCapableBeanFactory implements BeanDefinitionRegistry, ConfigurableListableBeanFactory {

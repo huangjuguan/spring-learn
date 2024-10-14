@@ -5,7 +5,7 @@ import bdbk.springframework.core.io.ResourceLoader;
 
 /**
  * 抽象bean信息读取类，负责实例化底层需要的成员变量
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-06
  */
 public abstract class AbstractBeanDefinitionReader implements BeanDefinitionReader {

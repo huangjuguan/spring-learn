@@ -127,7 +127,7 @@ public interface Pointcut {
 ```java
 /**
  * 根据表达式获取切入点的类
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-26
  */
 public class AspectJExpressionPointcut implements Pointcut, ClassFilter, MethodMatcher {

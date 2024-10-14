@@ -2,7 +2,7 @@ package bdbk.springframework.aop;
 
 /**
  * 被代理的目标对象
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-26
  */
 public class TargetSource {

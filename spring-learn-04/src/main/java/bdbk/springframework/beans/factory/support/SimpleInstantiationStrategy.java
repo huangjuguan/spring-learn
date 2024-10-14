@@ -9,7 +9,7 @@ import java.lang.reflect.InvocationTargetException;
 
 /**
  * 简单的实例化策略实例
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-05
  */
 public class SimpleInstantiationStrategy implements InstantiationStrategy {

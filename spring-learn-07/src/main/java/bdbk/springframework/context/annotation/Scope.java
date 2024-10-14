@@ -4,7 +4,7 @@ import java.lang.annotation.*;
 
 /**
  * bean注入注解
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-21
  */
 @Target({ElementType.TYPE, ElementType.METHOD})

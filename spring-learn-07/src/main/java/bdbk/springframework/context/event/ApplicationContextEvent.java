@@ -5,7 +5,7 @@ import bdbk.springframework.context.ApplicationEvent;
 
 /**
  * 应用上下文的事件
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-14
  */
 public class ApplicationContextEvent extends ApplicationEvent {

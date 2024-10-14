@@ -4,7 +4,7 @@ import java.lang.reflect.Method;
 
 /**
  * 通知的前置的方法处理接口
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-26
  */
 public interface MethodBeforeAdvice extends BeforeAdvice {

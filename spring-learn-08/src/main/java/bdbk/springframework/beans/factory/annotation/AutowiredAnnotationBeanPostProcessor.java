@@ -12,7 +12,7 @@ import java.lang.reflect.Field;
 
 /**
  * 处理 @Value、@Autowired，注解的 BeanPostProcessor
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-22
  */
 public class AutowiredAnnotationBeanPostProcessor extends InstantiationAwareBeanPostProcessorAdapter implements BeanFactoryAware {

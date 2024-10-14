@@ -2,7 +2,7 @@ package bdbk.springframework.util;
 
 /**
  * class工具类
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-06
  */
 public class ClassUtils {

@@ -2,7 +2,7 @@ package bdbk.springframework.core.io;
 
 /**
  * 资源装载接口
- * @author little8
+ * @author huangjuguan
  * @since 2022-06-06
  */
 public interface ResourceLoader {
